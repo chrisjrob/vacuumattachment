@@ -1,3 +1,8 @@
+// vacuumattachment.scad
+// Vacuum Attachment for Bosch Power Tools
+// 
+// Copyright 2013 Christopher Roberts
+
 // Global Parameters
 outer_diameter_max = 31.8; // Vacuum cleaner end goes into this
 outer_diameter_min = 31.2;
