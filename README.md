@@ -17,7 +17,6 @@ Printed and worked beautifully with my Bosch tools and VAX vacuum.
 
 Instructions
 ------------
-
  - Customise SCAD file
  - Export to STL
  - Slice
